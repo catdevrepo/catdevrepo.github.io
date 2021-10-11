@@ -1,0 +1,30 @@
+<package>
+	<id>com.catdev.darkiconx</id>
+	<name>DarkIconX</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cool MatteBlack icons for iOS.</shortDescription>
+	<descriptionlist>
+		<description>Minimal iOS Version 6.0</description>
+		<description>Tested on iPhoneX iOS 14.8 SnowBoard.</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+		<change>Icon BugFix</change>
+		<change>Compatible with Anemone NOT WINTERBOARD</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

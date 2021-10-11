@@ -1,0 +1,17 @@
+Package: com.catdev.darkiconx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: CatDev
+Depends: com.spark.snowboard
+Filename: ./debs/com.catdev.darkiconx.deb
+Size: 535752
+MD5sum: 3b43191d40244e1ff3ffe56696508ccc
+SHA1: fee25ed703cfb79a4fdd5ae7fe6afffe90dc7446
+SHA256: 618310b1f9ada6620590953977817874deb18a2294bccd0ae7c9ff0ac9e04ca6
+Section: Themes
+Description: A MatteDark theme for iOS app icons.
+Author: CatDev
+Depiction: https://catdevrepo.github.io/repo/depictions/?p=com.catdev.darkiconx
+Name: DarkIconX
+Sileodepiction: https://catdevrepo.github.io/repo/sileodepictions/com.catdev.darkiconx/depiction.json
+
